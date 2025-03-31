@@ -145,5 +145,5 @@
   <img src="https://stats-hrishi.vercel.app/api/top-langs/?username=rakeshdalvi25&hide_progress=true&theme=algolia&langs_count=10">
 </p>
 <p align="center"><img src="https://github-readme-streak-stats-smoky-seven.vercel.app?user=rakeshdalvi25&theme=algolia"></p>
-<p align="center"><img src="https://stats-hrishi.vercel.app/api/wakatime?username=rakeshdalvi25&theme=algolia"></p>
+<p align="center"><img src="https://stats-hrishi.vercel.app/api/wakatime?username=rakeshdalvi&theme=algolia"></p>
 <p align="center"><img src="https://codeium.com/profile/rakeshdalvi/card.png"></p>
